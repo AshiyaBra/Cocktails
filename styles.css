@@ -1,0 +1,32 @@
+/* Main Structure */
+body {
+    background-color: rgb(255, 233, 250);
+}
+section {
+    background-color: rgb(255, 164, 226);
+    border-radius: 100px;
+    margin: 20px;
+}
+img {
+    height: 300px;
+    width: 250px;
+    padding: 20px;
+}
+
+
+
+
+/* Typography */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h1 {
+    font-size: 60px;
+    margin: 30px;
+}
+title {
+    padding: 20px;
+}
+
+
