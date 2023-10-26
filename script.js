@@ -30,8 +30,6 @@ const getCocktailInfo = (cocktail) => {
 
     section.appendChild(h2);
     section.appendChild(category);
-    section.appendChild(glass);
-    section.appendChild(instructions);
     section.appendChild(img);
 
     return section;
